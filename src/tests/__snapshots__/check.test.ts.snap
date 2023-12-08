@@ -1,0 +1,24 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`порядок пунктов и их содержимое верное 1`] = `
+"<div>
+  <h1 class=\\"text-xl mb-2\\">Начало выходного дня (по-порядку)</h1>
+  <ul class=\\"flex flex-col items-start pl-2\\">
+    <li class=\\"flex items-center gap-1\\" style=\\"color: blue;\\"><button class=\\"text-red-500\\" title=\\"Remove\\" data-index=\\"0\\"><svg viewBox=\\"0 0 24 24\\" width=\\"1.2em\\" height=\\"1.2em\\">
+          <path fill=\\"currentColor\\" d=\\"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM8 9h8v10H8V9zm7.5-5l-1-1h-5l-1 1H5v2h14V4z\\"></path>
+        </svg></button> #1 проснуться</li>
+    <li class=\\"flex items-center gap-1\\" style=\\"color: brown;\\"><button class=\\"text-red-500\\" title=\\"Remove\\" data-index=\\"1\\"><svg viewBox=\\"0 0 24 24\\" width=\\"1.2em\\" height=\\"1.2em\\">
+          <path fill=\\"currentColor\\" d=\\"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM8 9h8v10H8V9zm7.5-5l-1-1h-5l-1 1H5v2h14V4z\\"></path>
+        </svg></button> #2 сходить в туалет</li>
+    <li class=\\"flex items-center gap-1\\" style=\\"color: purple;\\"><button class=\\"text-red-500\\" title=\\"Remove\\" data-index=\\"2\\"><svg viewBox=\\"0 0 24 24\\" width=\\"1.2em\\" height=\\"1.2em\\">
+          <path fill=\\"currentColor\\" d=\\"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM8 9h8v10H8V9zm7.5-5l-1-1h-5l-1 1H5v2h14V4z\\"></path>
+        </svg></button> #3 умыться</li>
+    <li class=\\"flex items-center gap-1\\" style=\\"color: red;\\"><button class=\\"text-red-500\\" title=\\"Remove\\" data-index=\\"3\\"><svg viewBox=\\"0 0 24 24\\" width=\\"1.2em\\" height=\\"1.2em\\">
+          <path fill=\\"currentColor\\" d=\\"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM8 9h8v10H8V9zm7.5-5l-1-1h-5l-1 1H5v2h14V4z\\"></path>
+        </svg></button> #4 позавтракать</li>
+    <li class=\\"flex items-center gap-1\\" style=\\"color: green;\\"><button class=\\"text-red-500\\" title=\\"Remove\\" data-index=\\"4\\"><svg viewBox=\\"0 0 24 24\\" width=\\"1.2em\\" height=\\"1.2em\\">
+          <path fill=\\"currentColor\\" d=\\"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM8 9h8v10H8V9zm7.5-5l-1-1h-5l-1 1H5v2h14V4z\\"></path>
+        </svg></button> #5 пойти гулять</li>
+  </ul>
+</div>"
+`;
